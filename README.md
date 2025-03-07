@@ -17,10 +17,14 @@ This project analyzes **credit card transactions** to detect **fraud patterns** 
 ## Key Findings
 - **Fraud transactions** often involve higher amounts.
 - **Fraud is more frequent at night**.
-- Fraud transaction values **invrease during the day**.
+- Fraud transaction values **increase during the day**.
 
 ## How to Run the Project
-1️ **Install dependencies:**
+1. **Install dependencies:**
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
+
+2. Run the Jupyter Notebook 
+
+
